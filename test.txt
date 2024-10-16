@@ -1,3 +1,2 @@
 Hello !!
-New updated ...
-uodating with VSCode
+updating with VSCode
